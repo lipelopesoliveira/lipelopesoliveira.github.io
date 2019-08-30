@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Felipe L. Oliveira"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "To Nano and Beyond... Just a young scientist website"
   location         : "Rio de Janeiro, BR"
   email            : "felipe.lopes@nano.ufrj.br"
@@ -299,4 +299,3 @@ defaults:
     values:
       layout: singe
       author_profile: true
-      
