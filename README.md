@@ -1,2 +1,1 @@
-# lipelopesoliveira.github.io
-My personal website
+# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
