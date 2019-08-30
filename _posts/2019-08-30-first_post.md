@@ -5,6 +5,7 @@ tags: [test1, test2, test3]
 header:
   image: "/images/header.jpg"
 excerpt: "Test 1, 2, 3"
+mathjax: "true"
 ---
 
 
