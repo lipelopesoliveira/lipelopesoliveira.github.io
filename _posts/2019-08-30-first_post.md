@@ -27,13 +27,13 @@ TEstando 2:
 
 Python code:
 
-'''python
+"""python
     import numpy as np
 
     def printa(x,y):
       print(x,y)
 
-'''
+"""
 
 teste 2 'x+y'
 
