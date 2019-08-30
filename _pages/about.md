@@ -9,17 +9,4 @@ header:
 
 I'm a young scientist...
 
-# H1 Heading
-
-## H2
-
-### H3
-
-Testando aqui... *italico* **negrito** [teste](http://www.google.com.br)
-
-* 1asjd
-+ oaksokas
-- oaksokas
-
-TEstando 2:
-1. a
+<img src="{{ site.url }}{{ site.baseurl }}/images/bio.jpeg" alt="teste1">
