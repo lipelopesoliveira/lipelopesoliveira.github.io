@@ -2,6 +2,7 @@
 title: "Testing the first post"
 date: 2019-08-30
 tags: [test1, test2, test3]
+classes: wide
 header:
   image: "/images/header.jpg"
   teaser: /images/publications/TOC_1.png
