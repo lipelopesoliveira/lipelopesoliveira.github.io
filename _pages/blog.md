@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 permalink: /blog/
 title: "Posts about nanoscience and computation"
 author_profile: True
