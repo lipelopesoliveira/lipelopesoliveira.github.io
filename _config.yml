@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Felipe L. Oliveira"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Felipe L. Oliveira"
-description              : "To nano and beyond... My personal website."
+description              : "To nano and beyond..."
 url                      : "https://lipelopesoliveira.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,35 +115,35 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:felipe.lopes@nano.ufrj.br
+      url: mailto:felipe.lopes@nano.ufrj.br
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://lipelopesoliveira@github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/FeliipeLopes"
+      url: "https://twitter.com/FeliipeLopes"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "lipelopesoliveira"
-      # url: "https://lipelopesoliveira.github.io/"
+      url: "https://lipelopesoliveira.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/lipelopesoliveira"
+      url: "https://instagram.com/lipelopesoliveira"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://lipelopesoliveira@github.io"
+      url: "https://lipelopesoliveira@github.io"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: http://lipelopesoliveira.github.io
+      url: http://lipelopesoliveira.github.io
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/lipelopesoliveira"
+      url: "https://instagram.com/lipelopesoliveira"
 
 
 # Reading Files
