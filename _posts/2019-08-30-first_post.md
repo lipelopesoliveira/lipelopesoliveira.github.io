@@ -4,6 +4,8 @@ date: 2019-08-30
 tags: [test1, test2, test3]
 header:
   image: "/images/header.jpg"
+  teaser: /images/publications/TOC_1.png
+  og_image: /images/publications/TOC_2.png
 excerpt: "Test 1, 2, 3"
 mathjax: "true"
 ---
