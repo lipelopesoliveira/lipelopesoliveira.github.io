@@ -14,5 +14,3 @@ header:
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_1S.png" alt="teste1">
 
 [1] Costa, D. G., Henrique, F. J., **Oliveira, F. L.**, Capaz, R. B., & Esteves, P. M. (2018). *n-Diamondynes: Expanding the family of carbon allotropes.* **Carbon**, 136, 337-344.
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/bio.jpeg" alt="teste1">
