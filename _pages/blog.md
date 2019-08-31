@@ -1,7 +1,7 @@
 ---
+title: "Posts"
 layout: collection
 permalink: /blog/
-title: "Posts about nanoscience and computation"
 author_profile: True
 entries_layout: grid
 classes: wide
