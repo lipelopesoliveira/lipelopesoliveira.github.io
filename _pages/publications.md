@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: True
+classes: wide
 header:
   image: "/images/header.jpg"
 ---
