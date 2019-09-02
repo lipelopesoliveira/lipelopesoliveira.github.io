@@ -1,1 +1,1 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# [Repository for my personal website](lipelopesoliveira.github.io)
