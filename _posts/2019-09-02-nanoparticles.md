@@ -23,7 +23,7 @@ Mas calma, **ainda** não é possível dominar a raça humana com esse tipo de t
 
 Esses vermes possuem um comportamento padrão de se dirigir sempre na direção de fontes de calor. Utilizando essas nanopartículas, os pesquisadores foram capazes de modular esse comportamento utilizando um campo magnético. O vídeo abaixo mostra esse controle. Nesse vídeo o verme se encaminha em direção à fonte de calor (canto superior esquerdo), quando é aplicado um campo magnético (momento em que aparece um quadrado branco na imagem) o verme para de se mover e, em seguida, começa a se mover na direção oposta.
 
-<iframe src="{{ site.url }}{{ site.baseurl }}/images/posts/2019-09-02-nanoparticles/nnano.2010.125-s2.mov" frameborder="0" allowfullscreen></iframe>
+#<iframe src="{{ site.url }}{{ site.baseurl }}/images/posts/2019-09-02-nanoparticles/nnano.2010.125-s2.mov" frameborder="0" allowfullscreen></iframe>
 
 Para conseguir manipular o comportamento desses vermes, as nanopartículas foram conjugadas com uma proteína (streptavidin) que se liga à canais iônicos sensíveis à temperatura (TRPV1). Quando é aplicado um campo magnético em radio frequência ocorre um aquecimento de 0,31°C/s na superfície da nanopartícula, levando à abertura desse canal iônico, o que gera um influxo de Ca2+ para dentro da célula, causando uma despolarização na membrana, que pode levar ao disparo de um potencial de ação sem causar danos na célula.
 
