@@ -10,7 +10,7 @@ header:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_3.png" alt="Table of contents 3" style="width:1280px;height:720px;">
 
-**[3]** **Oliveira, F. L.**, Souzam S.P., Bassut, J., Álvarez, H. M., Basabe, Y. G., Souza, R. O. M. A., Esteves, P. M. & Gonçalves, R. S. B. (2019). *Enzyme-Decorated Covalent Organic Framework as a
+**[3]** **Oliveira, F. L.**, Souzam S. P., Bassut, J., Álvarez, H. M., Basabe, Y. G., Souza, R. O. M. A., Esteves, P. M. & Gonçalves, R. S. B. (2019). *Enzyme-Decorated Covalent Organic Framework as a
 Nanoporous Platform for Heterogeneous Biocatalysis* **In publication process**
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_2.png" alt="Table of contents 2" style="width:1265px;height:716px;">
