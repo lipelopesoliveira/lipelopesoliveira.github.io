@@ -8,6 +8,10 @@ header:
   image: "/images/header.jpg"
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_4.png" alt="Table of contents 4" width="80%" height="80%">
+
+**[4]** **Oliveira, F. L.**, Capaz, R. B. and Esteves, P. M. (2019). *Spiro-Carbon - A metallic carbon allotrope predict by first principles calculations* **In publication process**
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_3.png" alt="Table of contents 3" width="80%" height="80%">
 
 **[3]** **Oliveira, F. L.**, Souzam S. P., Bassut, J., Álvarez, H. M., Basabe, Y. G., Souza, R. O. M. A., Esteves, P. M. & Gonçalves, R. S. B. (2019). *Enzyme-Decorated Covalent Organic Framework as a
