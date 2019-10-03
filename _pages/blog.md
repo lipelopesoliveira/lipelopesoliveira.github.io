@@ -8,8 +8,7 @@ classes: wide
 ---
 
 {% for post in site.posts limit: 15 %}
-  {% include page.header %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
