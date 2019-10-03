@@ -5,11 +5,9 @@ permalink: /tutorials/
 author_profile: True
 entries_layout: grid
 classes: wide
-header:
-  image: "/images/header.jpg"
 ---
 
-{% for post in site.tutorials limit: 15 %}
+{% for post in site.posts.Tutorial_QE limit: 15 %}
   {% include archive-single.html %}
 {% endfor %}
 {% include feature_row id="intro" type="center" %}
