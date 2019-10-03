@@ -8,7 +8,7 @@ classes: wide
 ---
 
 {% include feature_row id="intro" type="center" %}
-{% for post in paginator.posts limit: 5 %}
+{% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
 
