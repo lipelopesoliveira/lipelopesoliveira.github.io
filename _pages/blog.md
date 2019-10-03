@@ -2,7 +2,6 @@
 title: "Posts"
 layout: collection
 permalink: /blog/
-author_profile: True
 entries_layout: grid
 classes: wide
 ---
