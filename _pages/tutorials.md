@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-{% for post in site.tut limit: 15 %}
+{% for post in site._tut limit: 15 %}
   {% include archive-single.html %}
 {% endfor %}
 {% include feature_row id="intro" type="center" %}
