@@ -7,8 +7,8 @@ entries_layout: grid
 classes: wide
 ---
 
-{% include feature_row id="intro" type="grid" %}
-{% for post in post_pagination %}
+{% include feature_row id="intro" type="center" %}
+{% for post in post_pagination.html limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
 
