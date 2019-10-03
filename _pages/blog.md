@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-layout: collection
+layout: posts
 permalink: /blog/
 entries_layout: grid
 author_profile: False
