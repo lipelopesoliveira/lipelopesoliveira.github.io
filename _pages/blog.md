@@ -8,7 +8,7 @@ classes: wide
 ---
 
 {% include feature_row id="intro" type="grid" %}
-{% for post in site.posts %}
+{% for post in post_pagination %}
   {% include archive-single.html %}
 {% endfor %}
 
