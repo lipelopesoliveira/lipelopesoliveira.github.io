@@ -1,13 +1,14 @@
 ---
 title: "Posts"
-layout: archive
+layout: collections
 permalink: /tutorials/
+collection: portifolio
 author_profile: True
 entries_layout: grid
 classes: wide
 ---
 
-{% for post in site._tut limit: 15 %}
+{% for post in site.portifolio limit: 15 %}
   {% include archive-single.html %}
 {% endfor %}
 {% include feature_row id="intro" type="center" %}
