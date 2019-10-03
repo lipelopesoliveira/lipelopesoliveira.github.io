@@ -5,8 +5,6 @@ permalink: /blog/
 author_profile: True
 entries_layout: grid
 classes: wide
-header:
-  image: "/images/header.jpg"
 ---
 
 {% for post in site.posts limit: 15 %}
