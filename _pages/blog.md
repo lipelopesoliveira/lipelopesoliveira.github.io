@@ -7,8 +7,9 @@ entries_layout: grid
 classes: wide
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="grid" %}
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
-{% include feature_row %}
+
+{% include paginator.html %}
