@@ -6,8 +6,8 @@ author_profile: True
 entries_layout: grid
 classes: wide
 ---
-{% for post in site.posts limit: 5 %}
-  {% include archive-single.html type="center" %}
+{% for post in site.posts %}
+  {% include archive-single.html %}
 {% endfor %}
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
