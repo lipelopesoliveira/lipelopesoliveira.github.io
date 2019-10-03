@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-layout: collection
+layout: archive
 permalink: /tutorials/
 author_profile: True
 entries_layout: grid
