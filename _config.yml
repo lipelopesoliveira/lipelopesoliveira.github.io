@@ -116,7 +116,7 @@ author:
     #- label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
       # url: mailto:felipe.lopes@nano.ufrj.br
-    - label: "C. Lattes"
+    - label: "C Lattes"
       icon: "fas fa-fw fa-link"
        url: "http://lattes.cnpq.br/1285017599006029"
     - label: "Twitter"
