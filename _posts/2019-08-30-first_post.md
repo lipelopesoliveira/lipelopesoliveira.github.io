@@ -1,7 +1,7 @@
 ---
-title: "Testing the first post"
+title: "Welcome to my personal website"
 date: 2019-08-30
-tags: [test1, test2, test3]
+tags: [welcome, test, test3]
 classes: wide
 header:
   image: "/images/header.jpg"
@@ -12,7 +12,7 @@ mathjax: "true"
 ---
 
 
-# H1 Heading
+# This is a testing post! Just Ignore it!
 
 ## H2
 
