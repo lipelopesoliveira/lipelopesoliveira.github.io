@@ -6,7 +6,7 @@ author_profile: True
 entries_layout: grid
 classes: wide
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 {% for post in site.posts %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
