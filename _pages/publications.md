@@ -13,7 +13,7 @@ classes: wide
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_3.png" alt="Table of contents 3" width="80%" height="80%">
 
 **[3]** **Oliveira, F. L.**, Souzam S. P., Bassut, J., Álvarez, H. M., Basabe, Y. G., Souza, R. O. M. A., Esteves, P. M. & Gonçalves, R. S. B. (2019). *Enzyme-Decorated Covalent Organic Framework as a
-Nanoporous Platform for Heterogeneous Biocatalysis* **In publication process**
+Nanoporous Platform for Heterogeneous Biocatalysis* **Chemistry–A European Journal**, DOI: [10.1002/chem.201903807](https://doi.org/10.1002/chem.201903807) [PDF](https://drive.google.com/file/d/1gHFA7j4kwQxTIs6yxDWDF6yNVNdQk9_-/view?usp=sharing)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_2.png" alt="Table of contents 2" width="80%" height="80%">
 
