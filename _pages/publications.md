@@ -8,7 +8,7 @@ classes: wide
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_4.png" alt="Table of contents 4" width="80%" height="80%">
 
-**[4]** **Oliveira, F. L.**, Capaz, R. B. and Esteves, P. M. (2019). *Spiro-Carbon - A metallic carbon allotrope predict by first principles calculations* **ChemPhysChem**, DOI: [10.1002/cphc.201900966](https://doi.org/10.1002/cphc.201900966) [PDF](https://drive.google.com/file/d/1TWwD1nlJGonjVZCPA5-9Yaqkv4TEJ20I/view?usp=sharing)
+**[4]** **Oliveira, F. L.**, Capaz, R. B. and Esteves, P. M. (2020). *Spiro-Carbon - A metallic carbon allotrope predict by first principles calculations* **ChemPhysChem**, 21(1) 59-64, DOI: [10.1002/cphc.201900966](https://doi.org/10.1002/cphc.201900966) [PDF](https://drive.google.com/file/d/1TWwD1nlJGonjVZCPA5-9Yaqkv4TEJ20I/view?usp=sharing)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_3.png" alt="Table of contents 3" width="80%" height="80%">
 
