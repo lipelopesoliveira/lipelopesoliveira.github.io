@@ -6,7 +6,7 @@ author_profile: True
 classes: wide
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_4.png" alt="Table of contents 4" width="80%" height="80%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/publications/TOC_5.png" alt="Table of contents 4" width="80%" height="80%">
 
 **[5]** Freitas, S. K. S., **Oliveira, F. L.**, Merini, C., Justo, E. P. S., Gioda, A. and Esteves, P. M. (2020). *Dye-based Covalent Organic Networks (CONs)* **JPhys Materials**, -- , DOI: [10.1088/2515-7639/ab854b](https://doi.org/10.1088/2515-7639/ab854b) [PDF](https://iopscience.iop.org/article/10.1088/2515-7639/ab854b)
 
