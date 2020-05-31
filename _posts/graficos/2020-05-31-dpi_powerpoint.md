@@ -70,7 +70,7 @@ Selecione a opção `Decimal` no menu **Base** e digite o valor de DPI da imagem
 
 Por fim, basta clicar em `OK` e fechar a janela do Editor do Registro.
 
-3. Exportanto slides como imagens
+# 2° Etapa: Exportanto slides como imagens
 
 No PowerPoint, abra a apresentação e selecione o slide que deseja exportar. No menu **Arquivo**, selecione **Salvar como**.
 
