@@ -4,10 +4,9 @@ date: 2020-05-31
 tags: [Gráficos, PowerPoint, HD, dpi]
 classes: wide
 header:
-  image: "/images/header.jpg"
   teaser: /images/publications/TOC_1.png
   og_image: /images/publications/TOC_2.png
-excerpt: "Test 1, 2, 3"
+excerpt: "Tutorial ensinando a modificar a resolução de salvamento de imagens do PowerPoint"
 mathjax: "true"
 ---
 
