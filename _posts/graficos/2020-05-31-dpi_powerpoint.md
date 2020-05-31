@@ -60,7 +60,7 @@ Digite ExportBitmapResolution e precione `Enter`. Em seguida, selecione a chave 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/posts/graficos/dpi/dpi5.png" alt="Abrindo o Editor do Registro">
 
-Selecione a opção `Decimal` no menu **Base** e digite o valor de DPI da imagem que desejar na caixa de **Dados do valor**. Em geral 300 é um bom valor. Caso queira imagens ainda melhores pode colocar 600 ou valores maiores. Não ir muito além disso, a não ser que seja absolutamente necessário, pois as imagens podem ficar muito pesadas e algumas versões mais antigas do PowerPoint podem apresentar erros em salvar imagens tão grandes.
+Selecione a opção `Decimal` no menu **Base** e digite o valor de DPI da imagem que desejar na caixa de **Dados do valor**. Em geral 300 é um bom valor. Caso queira imagens ainda melhores pode colocar 600 ou valores maiores. Não ir muito além disso, a não ser que seja absolutamente necessário, pois as imagens podem ficar muito pesadas e algumas versões mais antigas do PowerPoint podem apresentar erros em salvar imagens tão grandes. Na prática, o valor máximo é de 1000 DPI. Para versões do Office 2010 ou mais antigo, o valor máximo é de 300 DPI.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/posts/graficos/dpi/dpi6.png" alt="Abrindo o Editor do Registro">
 
