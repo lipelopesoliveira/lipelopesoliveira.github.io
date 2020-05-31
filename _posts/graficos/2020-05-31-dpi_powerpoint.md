@@ -30,19 +30,24 @@ Caso você esteja utilizando uma versão antiga do windows, basta clicar em Inic
 
 Agora você precisa localizar a chave de registro da resolução de exportar imagens do PowerPoint. Dependendo da versão do Office que você estiver utilizando, o caminho para essa chave irá ser um pouco diferente:
 
-PowerPoint 2016
+- PowerPoint 2016:
+
 HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\PowerPoint\Options
 
-PowerPoint 2013
+- PowerPoint 2013:
+
 HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\PowerPoint\Options
 
-PowerPoint 2010
+- PowerPoint 2010:
+
 HKEY_CURRENT_USER\Software\Microsoft\Office\14.0\PowerPoint\Options
 
-PowerPoint 2007
+- PowerPoint 2007:
+
 HKEY_CURRENT_USER\Software\Microsoft\Office\12.0\PowerPoint\Options
 
-PowerPoint 2003
+- PowerPoint 2003:
+
 HKEY_CURRENT_USER\Software\Microsoft\Office\11.0\PowerPoint\Options
 
 Para localizar o caminho, basta ir clicando nos símbolos `>` da respectiva pasta, como mostrado na imagem abaixo.
